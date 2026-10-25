@@ -1,5 +1,7 @@
 # Wheat management trials in Brazil
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23649650.svg)](https://doi.org/10.5281/zenodo.23649650)
+
 2,851 trial results from 54 trials on wheat (*Triticum aestivum*) in Brazil, taken from the tables of 20 open-access Embrapa publications: diseases (leaf and stem rust, Fusarium head blight, wheat blast, leaf spots, powdery mildew, barley yellow dwarf), fungicides and seed treatment, cultivar trials, nitrogen, sowing density and date, and pests (greenbug *Schizaphis graminum*, the white grub *Phyllophaga triticophaga*, fall armyworm *Spodoptera frugiperda*, aphid vectors of barley yellow dwarf). Each row is one number exactly as printed, with the page and table it came from, and points to the trial it belongs to.
 
 Wheat is the base of bread and pasta, and Brazil imports a large share of the wheat it eats. It is grown in the South and, more recently, in the Cerrado. Much of the trial evidence on its diseases, pests and management sits in research bulletins and in the proceedings of the Brazilian wheat research meetings, some of them scanned. This dataset makes 20 of them searchable and comparable, from Rio Grande do Sul to Goiás and the Federal District.
