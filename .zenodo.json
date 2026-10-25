@@ -1,0 +1,22 @@
+{
+  "title": "Wheat management trials in Brazil: 2,851 results from 20 Embrapa publications",
+  "upload_type": "dataset",
+  "description": "2,851 trial results from 54 trials on wheat (Triticum aestivum) in Brazil, transcribed from the tables of 20 open-access Embrapa publications (1976-2026): diseases (leaf and stem rust, Fusarium head blight, wheat blast, leaf spots, powdery mildew, barley yellow dwarf), fungicides and seed treatment, cultivar trials, nitrogen, sowing density and date, and pests (greenbug Schizaphis graminum, the white grub Phyllophaga triticophaga, fall armyworm Spodoptera frugiperda, aphid vectors of barley yellow dwarf), with trial context (place, season, sowing date, water regime, cultivar, application timing, design), measured variable and value, assessment time, and the page and table of origin. Each document was transcribed twice, independently, by AI agents, and every disagreement was settled against the PDF; a human reviewed the result before publication. Part of the Paper Rerun project (Open Tables).",
+  "creators": [
+    {
+      "name": "Tessaro, Filipe"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Triticum aestivum",
+    "wheat",
+    "wheat blast",
+    "Fusarium head blight",
+    "leaf rust",
+    "Brazil",
+    "Embrapa",
+    "open data",
+    "AI agents"
+  ]
+}
