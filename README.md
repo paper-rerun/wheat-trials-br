@@ -1,5 +1,7 @@
 # Wheat management trials in Brazil
 
+Versão em português: [README.pt-BR.md](README.pt-BR.md)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23649650.svg)](https://doi.org/10.5281/zenodo.23649650)
 
 2,851 trial results from 54 trials on wheat (*Triticum aestivum*) in Brazil, taken from the tables of 20 open-access Embrapa publications: diseases (leaf and stem rust, Fusarium head blight, wheat blast, leaf spots, powdery mildew, barley yellow dwarf), fungicides and seed treatment, cultivar trials, nitrogen, sowing density and date, and pests (greenbug *Schizaphis graminum*, the white grub *Phyllophaga triticophaga*, fall armyworm *Spodoptera frugiperda*, aphid vectors of barley yellow dwarf). Each row is one number exactly as printed, with the page and table it came from, and points to the trial it belongs to.
